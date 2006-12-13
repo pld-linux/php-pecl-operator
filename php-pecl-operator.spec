@@ -6,12 +6,12 @@
 Summary:	%{_modname} - operator overloading
 Summary(pl):	%{_modname} - przeci±¿anie operatorów
 Name:		php-pecl-%{_modname}
-Version:	0.1
+Version:	0.3
 Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
-# Source0-md5:	6883446d3ddc48b5fe767fa7c66af331
+# Source0-md5:	60642711169ab32e9856b5d14295579f
 URL:		http://pecl.php.net/package/operator/
 BuildRequires:	php-devel >= 3:5.0.0
 BuildRequires:	rpmbuild(macros) >= 1.322
