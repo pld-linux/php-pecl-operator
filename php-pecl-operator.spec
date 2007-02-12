@@ -1,7 +1,7 @@
 %define		_modname	operator
 %define		_status		beta
 Summary:	%{_modname} - operator overloading
-Summary(pl):	%{_modname} - przeci±¿anie operatorów
+Summary(pl.UTF-8):   %{_modname} - przeciÄ…Å¼anie operatorÃ³w
 Name:		php-pecl-%{_modname}
 Version:	0.3
 Release:	1
@@ -22,8 +22,8 @@ operators.
 
 In PECL status of this extension is: %{_status}.
 
-%description -l pl
-Przeci±¿anie operatorów +, -, *, /, %, <<, >>, ., |, &, ^, ~, oraz !
+%description -l pl.UTF-8
+PrzeciÄ…Å¼anie operatorÃ³w +, -, *, /, %, <<, >>, ., |, &, ^, ~, oraz !
 
 To rozszerzenie ma w PECL status: %{_status}.
 
