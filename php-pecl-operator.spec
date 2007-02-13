@@ -1,7 +1,7 @@
 %define		_modname	operator
 %define		_status		beta
 Summary:	%{_modname} - operator overloading
-Summary(pl.UTF-8):   %{_modname} - przeciążanie operatorów
+Summary(pl.UTF-8):	%{_modname} - przeciążanie operatorów
 Name:		php-pecl-%{_modname}
 Version:	0.3
 Release:	1
