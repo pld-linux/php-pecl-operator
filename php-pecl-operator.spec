@@ -4,7 +4,7 @@ Summary:	%{_modname} - operator overloading
 Summary(pl.UTF-8):	%{_modname} - przeciążanie operatorów
 Name:		php-pecl-%{_modname}
 Version:	0.3
-Release:	1
+Release:	2
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
